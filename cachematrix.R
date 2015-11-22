@@ -1,4 +1,4 @@
-## The below two functions are part of the cachematrix assignment.
+## The below two functions are part of the cachematrix assignment 2 in Coursera R programming
 ## These functions calculate the inverse of a square matrix and save it in cache memory
 ## so as to not compute the matrix inverse each time
 
